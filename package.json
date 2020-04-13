@@ -1,6 +1,6 @@
 {
-  "name": "@raydec/react-native-input-mask",
-  "version": "2.0.0",
+  "name": "@raydeck/react-native-input-mask",
+  "version": "1.0.0",
   "description": "Text input mask for React Native.",
   "main": "index.js",
   "repository": {

@@ -2,4 +2,4 @@
 
 ### Version 2.0.0
 
-* Updated the headers in `RNTextInputMask.m` file to work with pods integration
+- Initial creation to make command-line install of @react-native-community/react-native-text-input-mask easier
